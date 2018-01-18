@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/race.png
 title: Racing Game Project
-permalink: projects/vacay
+permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2016-9-16
 labels:
