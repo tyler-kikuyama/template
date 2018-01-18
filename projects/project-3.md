@@ -1,61 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/Project3.png
+title: Castle Defense Game
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2016-12-4
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  
+summary: A castle defense game I developed in ICS 111.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
-
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+  The objective of this game is to protect your castle by stopping enemies from reaching it using a laser that your character can shoot. The enemies also can shoot lasers and if you get hit by one you lose. I used some of the code from a game that our professor made an recycled it to use for the movement of the enemies and the main character. That recycled code also helped in creating hitboxes for the characters when they got hit by a laser.
+  I worked with a partner for this project and also got a lot of help from my TA. My partner worked on developing the class for the villains and I worked on the main hero class. The main problem I ran into during this prject was how to implement the laser. When working on the laser method, the laser wouldn't always register when it hit an enemy so after working with my TA and a lot of hours spent trying to fix it, I managed to get it to work successfully. 
+   In the end, the game ended up coming out pretty good. I worked well with my partner and we were able to successfully combine the two classes that we had been working on to create the game. This project helped me to develop teamwork and communication skills that will be really helpful in the future.
 
