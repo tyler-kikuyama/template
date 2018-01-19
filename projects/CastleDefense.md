@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Project3.png
 title: Castle Defense Game
-permalink: 
+permalink: projects/ics111_castleDefense
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-4
 labels:
