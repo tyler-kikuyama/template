@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Building for the Future
+title: Maybe stress can be a good thing?
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-17
+date: 2018-01-18
 labels:
   - Software Engineering
   
