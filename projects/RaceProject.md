@@ -5,7 +5,7 @@ image: images/race.png
 title: Racing Game Project
 permalink: project/ics111_race
 # All dates must be YYYY-MM-DD format!
-date: 2016-9-16
+date: 2016-09-16
 labels:
   - Javascript
   - EZ.Java
