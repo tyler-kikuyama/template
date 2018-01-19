@@ -5,7 +5,7 @@ image: images/Project3.png
 title: Castle Defense Game
 permalink: projects/ics111_castleDefense
 # All dates must be YYYY-MM-DD format!
-date: 2016-12-4
+date: 2016-12-04
 labels:
   - Java
   
