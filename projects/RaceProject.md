@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/race.png
+image: images/race.jpg
 title: Racing Game Project
 permalink: project/ics111_race
 # All dates must be YYYY-MM-DD format!
