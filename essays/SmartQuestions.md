@@ -29,6 +29,8 @@ As a result of asking a smart question, the asker is rewarded with a smart answe
 
 In addition to this first answer, fifteen other people also comment and give their own advice which could be very helpful for solving the problem. Because the question is written straightforward and in detail, more people are willing to give their time to help because it is a problem that they can easily answer and understand.
 
+![Example of a not smart question and it's responses](/images/NotSmartQuestion.png)
+
 
 
 
