@@ -11,7 +11,7 @@ labels:
 
 Example of a smart question: [here](https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-or-nextfoo)
 
-Example of a question asked in a not smart way: [here]
+Example of a question asked in a not smart way: [here](https://stackoverflow.com/questions/48454873/please-help-me-to-know-what-y-is)
 
 Eric Raymond's essay  'How To Ask Questions The Smart Way', provides a lot of tips and details on how to ask questions that will yield the best answers in regards to computer science. He mentions that it is important to attempt to find the answer to your question alone using resources such as the internet, a book , manual or other. When you are unable to find the answer through your own means makes the question a valid one to ask. He also states that the forum you choose to visit to ask for help should be one that matches the same subject matter as your problem. This will speed up the process of getting people who understand the topic of your problem to give their advice. Most importantly, Raymond talks about the amount of detail and how specific you should be when asking a smart question. It is very vital to be as descriptive as possible when presenting your problem because it makes it a lot easier on the people who are trying to help you. The more a person understands the question
 means that they can give more information in their answer to help you.
@@ -30,6 +30,8 @@ As a result of asking a smart question, the asker is rewarded with a smart answe
 In addition to this first answer, fifteen other people also comment and give their own advice which could be very helpful for solving the problem. Because the question is written straightforward and in detail, more people are willing to give their time to help because it is a problem that they can easily answer and understand.
 
 ![Example of a not smart question and it's responses](/images/NotSmartQuestion.png)
+
+I was also able to find an example of a question that is asked in a not smart way. The person is asking about "_y" and the only other piece of context that is provided is getWorldRotation()._y . 
 
 
 
