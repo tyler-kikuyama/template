@@ -25,4 +25,10 @@ By doing this, the asker is providing sufficient information that other people c
 
 ![Example of a smart answer](/images/SmartReply.png)
 
+As a result of asking a smart question, the asker is rewarded with a smart answer that gives the asker sufficient help for him to solve his problem. The person giving advice is able to analyze the question and all the code provided so that he can come up with a detailed answer. His answer provides two solutions to help with the problem and code is even provided that can be implmented to fix the error.
+
+In addition to this first answer, fifteen other people also comment and give their own advice which could be very helpful for solving the problem. Because the question is written straightforward and in detail, more people are willing to give their time to help because it is a problem that they can easily answer and understand.
+
+
+
 
