@@ -18,3 +18,11 @@ means that they can give more information in their answer to help you.
 
 ![Example of a smart Question](/images/SmartAnswers.png)
 
+After going through some stack overflow questions, I came across this question that asks for advice in solving a problem that he is having with his scanner. The header of his question reads "Scanner is skipping nextLine() after using next() or nextFoo()?". This is a good header because it gives a nice summarized title for the question that he is asking and it gives people a good idea of the problem that he is facing. 
+
+He then posts pictures of the code that he is running and he tells the reader the exact problem he is facing by explaining the exact line that is skipped and the output of his code as a result of this skip. He also gives the reader an idea of what he thinks the problem is by stating "I tested my application and it looks like the problem lies in using input.nextInt(). If I delete it, then both string1 = input.nextLine() and string2 = input.nextLine() are executed as I want them to be."
+By doing this, the asker is providing sufficient information that other people can use to help figure out what the solution to his problem is. 
+
+
+
+
