@@ -32,6 +32,10 @@ In addition to this first answer, fifteen other people also comment and give the
 ![Example of a not smart question and it's responses](/images/NotSmartQuestion.png)
 
 I was also able to find an example of a question that is asked in a not smart way. The person is asking about "_y" and the only other piece of context that is provided is getWorldRotation()._y . 
+This is definitely not enough information for others to use so that they can give a sufficient answer. Maybe a good idea would be for the asker to include a description of the program that this "getWorldRotation()._y" is being used in and maybe give some examples on tests that he has runned on the program or solutions that he has already tried.
+
+Some people tried to respond to his question but they were not able to provide a solution and asked the person to provide additional information.
+
 
 
 
