@@ -9,4 +9,4 @@ labels:
   
 ---
 
-Example of a smart question:
+Example of a smart question: [here](https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-or-nextfoo)
