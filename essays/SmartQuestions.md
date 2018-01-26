@@ -37,6 +37,7 @@ This is definitely not enough information for others to use so that they can giv
 Some people tried to respond to his question but they were not able to provide a solution and asked the person to provide additional information.
 
 ## What I've Learned ##
-
+Understanding what a smart question is definitely changed my perspective on asking questions. I'm very guilty of asking a ton of questions in the not smart way. There have been countless occasions where I asked a professor or a peer a question without providing enough context. Maybe this has impacted my educational journey in a negative way and I will strive to ask smart questions as much as possible.
+Asking smart questions is essential to all software developers. In a field where so many languages and new concepts exist, it would be very difficult to be productive without the help of others. Smart questions maximize the amount of information you can receive from another person and this is an invaluable tool for all people working in the computer science industry.
 
 
