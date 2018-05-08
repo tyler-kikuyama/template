@@ -7,7 +7,7 @@ permalink: projects/ics314_manoaswapshop
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-06
 labels:
-  - Java
+  - Javascript
   
 summary: An application that provides a platform for UH Manoa students to safely sell and buy products from each other.
 ---
