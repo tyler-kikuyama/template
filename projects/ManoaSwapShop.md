@@ -24,4 +24,4 @@ Overview: Our completed version of the Manoa Swap Shop did include the key featu
 
 My contributions: I contributed to this project by building the about page, User Profile Schema/Collection, User Profile Creation Page, Edit User Profile Page, and the image uploading feature. 
 
-What I learned: Working on this project in a group was a great experience that taught me a lot about being productive as a cohesive unit.
+What I learned: Working on this project in a group was a great experience that taught me a lot about being productive as a cohesive unit. Learning how to constantly contribute to the group and give and receive feedback helped me to grow a lot as both a person and a programmer. Also, using github as a way to stay organized and to properly merge our code was something that made the process a whole lot easier. Before we started the project, I was worried about how we were going to get all of our code to combine without making any mistakes but resolving merge conflicts through github was actually a lot simpler than I thought it would be. Overall, I took a lot out of this final project and I'll definitely apply what I learned in the near future.
