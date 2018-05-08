@@ -12,6 +12,10 @@ labels:
 summary: An application that provides a platform for UH Manoa students to safely sell and buy products from each other.
 ---
 
+Click [here for detailed guide of our application](https://manoaswapshop.github.io/)
+
+Click [here for our organization page](https://github.com/manoaswapshop)
+
 Teammates: Matthew Yamaguchi and Kenneth Yamaguchi Townsend
 
 Goal: The vision for our Manoa Swap Shop project was to create a safe and streamlined application where University of Hawaii students and faculty could safely buy and sell goods. Some of the key features that we aimed to implement were a user profile system, item listings page, add item page, and a way to show that an item has been purchased. Some additional features that we wanted to implement included a search bar for items, a way to sort items by cateogries, and a more accessible user data base system.
