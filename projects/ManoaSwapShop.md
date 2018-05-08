@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Project3.png
 title: Manoa Swap Shop
-permalink: projects/ics111_castleDefense
+permalink: projects/ics314_manoaswapshop
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-06
 labels:
