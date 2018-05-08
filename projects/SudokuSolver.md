@@ -17,5 +17,5 @@ summary: An assignment I completed in my ICS 211 class. It is a program that can
   The assignment was to create an algorithm that could take in a sudoku problem and fill in all of the blanks with the correct numbers. It took me about a week to solve with aid from my professor and TA. A lot of code was already provided to help with the tests and some of the functions were already created by the professor in advance so I wrote the code for a recursive sudoku solver function and also a function that made sure that all the values in a given box were correct. Recursion was used to call back a function that would check if a given number could work for a cell. Another function checked all the possible numbers that could fit in a cell and the recursive function would go through all the possible values until it found one that fit for all the cases. 
   This assignment was very difficult for me to figure out and I had a hard time understanding recursion. The function to find which possible numbers could fit into a cell also caused me a lot of trouble but it challenged me to think differently and I definitely benefited from such a difficult problem.
 
-
+![Sudoku](/images/SudokuResult.png)
 
