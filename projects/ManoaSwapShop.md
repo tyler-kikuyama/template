@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Project3.png
+image: images/manoalogo.png
 title: Manoa Swap Shop
 permalink: projects/ics314_manoaswapshop
 # All dates must be YYYY-MM-DD format!
